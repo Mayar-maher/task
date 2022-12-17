@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\oopMayar\bin\Debug\net6.0\mayar.exe
+C:\Users\HP\Desktop\oopMayar\bin\Debug\net6.0\mayar.deps.json
+C:\Users\HP\Desktop\oopMayar\bin\Debug\net6.0\mayar.runtimeconfig.json
+C:\Users\HP\Desktop\oopMayar\bin\Debug\net6.0\mayar.dll
+C:\Users\HP\Desktop\oopMayar\bin\Debug\net6.0\mayar.pdb
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\mayar.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\mayar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\mayar.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\mayar.AssemblyInfo.cs
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\mayar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\mayar.dll
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\refint\mayar.dll
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\mayar.pdb
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\mayar.genruntimeconfig.cache
+C:\Users\HP\Desktop\oopMayar\obj\Debug\net6.0\ref\mayar.dll
